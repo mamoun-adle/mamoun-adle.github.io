@@ -1,13 +1,10 @@
-<DocType html>
+<!DOCTYPE html>
 <html>
-
 <body>
+
 <h1>mamoun cs</h1>
-<h3>adle </h3>
-
-
+<p>adle </p>
+<a href="https://www.w3schools.com"><button>go to w3schools</a>
 
 </body>
-
-
 </html>

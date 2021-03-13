@@ -1,6 +1,9 @@
 
 <!DOCTYPE>
 <html>
+  <head>
+  <link rel="stylesheet" herf ="style.css">
+  </head>
 <body>
 <title>
 mamoun adle

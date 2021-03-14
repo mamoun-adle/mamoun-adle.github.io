@@ -9,10 +9,7 @@
 <title>
 mamoun adle
 </title>
-<style>
 
-
-</style>
 <h1>mamoun adle khanfa</h1>
 <p>
 i a student in year 3 to najah university , i'm learning computer science in college of science

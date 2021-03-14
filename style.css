@@ -1,0 +1,31 @@
+ body{
+ background-color : black; 
+ }
+ h1{
+ color : white; 
+ font-size = 300%;
+ text-align:center;
+ }
+ p{
+ color: white ; 
+ background-color:red;
+  font-family : courier;
+  text-align:center;
+ }
+ pre{
+	 color : white;
+	 text-align:center ;
+ }
+ ul{
+	  text-align:center;
+	  
+ }
+ li{
+	 color:white;
+ }
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+ 
+ 

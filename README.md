@@ -14,6 +14,9 @@ mamoun adle
 li.new1:hover {
 color:green
 }
+pre.new2:hover {
+color:green
+}
 </style>
 
 
@@ -22,10 +25,9 @@ color:green
 mamoun adle khanfa
 </h1>
 
-
-<button onclick="myFunction()">Print mamoun adle khanfa’s Resume</button>
+<button onclick="window.print()">Print mamoun adle khanfa’s Resume</button>
  
-<p id ="demo" ></p>
+<p>i a student in year 3 to najah university , i'm learning computer science in college of science</p>
 <br><hr>
 <p>
 
@@ -36,30 +38,28 @@ mamoun adle khanfa
 <li>  very good about language c++  </li>
 <li> good about language java</li>
 <li> not bad about language in english </li>
+
 <hr>
-<pre>A list of your work experiences:-</pre>
-<li class="new1"> i have experiences in make building bricks </li>
-<li class="new1"> i have experiences in make artificial stone </li>
+
+
+<div>
+<pre class ="new2">A list of your work experiences:-</pre>
+<li class="new1" >i have experiences in make building bricks </li>
+<li class="new1" > i have experiences in make artificial stone </li>
+
+</div>
 <hr>
 <pre>A list of your hobbies:- </pre>
 <li> i like swimming </li>
 <li> i like gaming computer </li>
 </ul>
 
-<script>
-function myFunction() {
-  var txt1 = "i a student in year 3 to najah university , i";
-  var txt2="'m learning computer science in college of science";
-  document.getElementById("demo").innerHTML = txt1 +txt2;
-  
-  
-  
-}
-</script>
+
+<script type="text/javascript">window["_gaUserPrefs"] = { ioo : function() { return true; } }</script>
 
 
 <a href="https://www.facebook.com/mamounadleKhanfa"><button>click on photo for go page facebook
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.qatarshares.com%2Fvb%2Fprintthread.php%3Ft%3D613853%26pp%3D10%26page%3D71&psig=AOvVaw1bTVYIle5Zpb6__HPk_ChH&ust=1618061508075000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDS2_-i8e8CFQAAAAAdAAAAABAJ" style = "width:100%">
+<img src="https://scontent.fjrs1-2.fna.fbcdn.net/v/t1.6435-9/129230768_2704938953089688_4310434584620030910_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=uZZsb25w0SoAX8QujdT&_nc_ht=scontent.fjrs1-2.fna&oh=97d58a6ac22d05ae0cda0b96d6f38075&oe=60963AE3" style = "width:50%">
 </a>
 
 

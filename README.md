@@ -26,9 +26,7 @@ mamoun adle khanfa
 </h1>
 
 <button onclick="window.print()">Print mamoun adle khanfa’s Resume</button>
- `<a href="https://mamoun-adle.github.io/page2.html
-"><button> click on for go page 2 </a>
-
+ 
 <p>i a student in year 3 to najah university , i'm learning computer science in college of science</p>
 <br><hr>
 <p>
@@ -55,6 +53,9 @@ mamoun adle khanfa
 <li> i like swimming </li>
 <li> i like gaming computer </li>
 </ul>
+
+`<a href="https://mamoun-adle.github.io/page2.html"><button> click on for go page 2 </a>
+
 
 
 <script type="text/javascript">window["_gaUserPrefs"] = { ioo : function() { return true; } }</script>

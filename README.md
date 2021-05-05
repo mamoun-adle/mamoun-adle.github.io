@@ -54,7 +54,7 @@ mamoun adle khanfa
 <li> i like gaming computer </li>
 </ul>
 
-<a herf="https://mamoun-adle.github.io/page2.html"><button>click on for go page 2 </a>
+<a href="https://mamoun-adle.github.io/page2.html"><button> on click go to page2</button> </a>
 
 
 

@@ -54,8 +54,8 @@ mamoun adle khanfa
 <li> i like gaming computer </li>
 </ul>
 
-`<a href="https://mamoun-adle.github.io/page2.html"><button> click on for go page 2 </a>
-
+<button>`<a href="https://mamoun-adle.github.io/page2.html"><button> click on for go page 2 </a>
+ </button>
 
 
 <script type="text/javascript">window["_gaUserPrefs"] = { ioo : function() { return true; } }</script>
